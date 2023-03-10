@@ -1,0 +1,22 @@
+body{ //*Imagem em fundo com imagem*//
+    background-image: url("");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+div.text{ //*Fonte básico corpo*//
+    font-size: medium;
+    font-family: Georgia;
+    color: black;
+    text-align: justify;
+}
+div.img{
+    position: ;
+    width:100%;
+    border-radius:10px;
+}
+div.hightext{ //*Título*//
+    font-size: large;
+    font-family: Impact;
+    color: black;
+    text-align: center;
+}
